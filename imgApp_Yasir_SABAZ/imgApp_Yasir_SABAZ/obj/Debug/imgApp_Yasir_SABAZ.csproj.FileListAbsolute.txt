@@ -1,0 +1,13 @@
+D:\gitHub\imgApp\imgApp_Yasir_SABAZ\imgApp_Yasir_SABAZ\bin\Debug\imgApp_Yasir_SABAZ.exe.config
+D:\gitHub\imgApp\imgApp_Yasir_SABAZ\imgApp_Yasir_SABAZ\bin\Debug\imgApp_Yasir_SABAZ.exe
+D:\gitHub\imgApp\imgApp_Yasir_SABAZ\imgApp_Yasir_SABAZ\bin\Debug\imgApp_Yasir_SABAZ.pdb
+D:\gitHub\imgApp\imgApp_Yasir_SABAZ\imgApp_Yasir_SABAZ\obj\Debug\imgApp_Yasir_SABAZ.csprojAssemblyReference.cache
+D:\gitHub\imgApp\imgApp_Yasir_SABAZ\imgApp_Yasir_SABAZ\obj\Debug\imgApp_Yasir_SABAZ.Form1.resources
+D:\gitHub\imgApp\imgApp_Yasir_SABAZ\imgApp_Yasir_SABAZ\obj\Debug\imgApp_Yasir_SABAZ.Form3.resources
+D:\gitHub\imgApp\imgApp_Yasir_SABAZ\imgApp_Yasir_SABAZ\obj\Debug\imgApp_Yasir_SABAZ.Properties.Resources.resources
+D:\gitHub\imgApp\imgApp_Yasir_SABAZ\imgApp_Yasir_SABAZ\obj\Debug\imgApp_Yasir_SABAZ.csproj.GenerateResource.cache
+D:\gitHub\imgApp\imgApp_Yasir_SABAZ\imgApp_Yasir_SABAZ\obj\Debug\imgApp_Yasir_SABAZ.csproj.CoreCompileInputs.cache
+D:\gitHub\imgApp\imgApp_Yasir_SABAZ\imgApp_Yasir_SABAZ\obj\Debug\imgApp_Yasir_SABAZ.exe
+D:\gitHub\imgApp\imgApp_Yasir_SABAZ\imgApp_Yasir_SABAZ\obj\Debug\imgApp_Yasir_SABAZ.pdb
+D:\gitHub\imgApp\imgApp_Yasir_SABAZ\imgApp_Yasir_SABAZ\obj\Debug\imgApp_Yasir_SABAZ.Form4.resources
+D:\gitHub\imgApp\imgApp_Yasir_SABAZ\imgApp_Yasir_SABAZ\obj\Debug\imgApp_Yasir_SABAZ.clsGenel.resources
